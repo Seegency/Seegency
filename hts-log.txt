@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Jul 2024 00:13:38 at https://lacheie.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lacheie.com/ -O1 "C:\Users\didas\OneDrive\Desktop\lacheie" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:13:45	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=ro-RO&shop_id=82363384131
+00:15:32	Error: 	"Not Found" (404) at link https://lacheie.com/wpm/ (from https://lacheie.com/)
+00:15:32	Error: 	"Not Found" (404) at link https://lacheie.com/heet/ (from https://lacheie.com/)
+00:15:32	Error: 	"Not Found" (404) at link https://lacheie.com/e.js (from https://lacheie.com/)
+00:15:32	Error: 	"Not Found" (404) at link https://lacheie.com/gtm.js (from https://lacheie.com/)
+00:15:32	Error: 	"Not Found" (404) at link https://lacheie.com/POST (from https://lacheie.com/)
+00:15:32	Error: 	"Error when decompressing" (-1) at link https://lacheie.com/cdn (from https://lacheie.com/)
+00:15:54	Error: 	"Not Found" (404) at link https://lacheie.com/Trident/ (from https://lacheie.com/)
+00:16:44	Error: 	"Not Found" (404) at link https://lacheie.com/collections/heet/ (from https://lacheie.com/collections/all)
+00:16:44	Error: 	"Not Found" (404) at link https://lacheie.com/collections/e.js (from https://lacheie.com/collections/all)
+00:16:44	Error: 	"Not Found" (404) at link https://lacheie.com/collections/POST (from https://lacheie.com/collections/all)
+00:16:44	Error: 	"Not Found" (404) at link https://lacheie.com/collections/Trident/ (from https://lacheie.com/collections/all)
+00:16:51	Error: 	"Not Found" (404) at link https://lacheie.com/pages/heet/ (from https://lacheie.com/pages/cateva-reclame-create-de-noi)
+00:16:51	Error: 	"Not Found" (404) at link https://lacheie.com/pages/e.js (from https://lacheie.com/pages/cateva-reclame-create-de-noi)
+00:16:51	Error: 	"Not Found" (404) at link https://lacheie.com/pages/POST (from https://lacheie.com/pages/cateva-reclame-create-de-noi)
+00:16:52	Error: 	"Not Found" (404) at link https://lacheie.com/pages/Trident/ (from https://lacheie.com/pages/cateva-reclame-create-de-noi)
+00:16:52	Error: 	"Not Found" (404) at link https://lacheie.com/products/heet/ (from https://lacheie.com/products/3-reclame-1?_pos=1&_psq=1&_ss=e&_v=1.0)
+00:16:52	Error: 	"Not Found" (404) at link https://lacheie.com/products/e.js (from https://lacheie.com/products/3-reclame-1?_pos=1&_psq=1&_ss=e&_v=1.0)
+00:16:53	Error: 	"Not Found" (404) at link https://lacheie.com/products/POST (from https://lacheie.com/products/3-reclame-1?_pos=1&_psq=1&_ss=e&_v=1.0)
+00:16:53	Error: 	"Not Found" (404) at link https://lacheie.com/products/Trident/ (from https://lacheie.com/products/3-reclame-1?_pos=1&_psq=1&_ss=e&_v=1.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 16 seconds : 224 links scanned, 204 files written (55847135 bytes overall) [49738676 bytes received at 253768 bytes/sec], 11583105 bytes transferred using HTTP compression in 123 files, ratio 22%, 12.6 requests per connection
+(19 errors, 1 warnings, 0 messages)

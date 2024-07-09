@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lacheie.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22RONT%22%2C%22reg%22%3A%22GDPR%22%7D
+lacheie.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+lacheie.com	TRUE	/	FALSE	1999999999	keep_alive	0d7e2eef-50be-428a-a91d-60479e5aec7b
+lacheie.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D
+lacheie.com	TRUE	/	FALSE	1999999999	localization	RO
+lacheie.com	TRUE	/	FALSE	1999999999	cart_currency	RON
+lacheie.com	TRUE	/	FALSE	1999999999	_shopify_y	977e0ade-a9ed-4046-be9a-6db591619f9d
+lacheie.com	TRUE	/	FALSE	1999999999	_shopify_s	062b69ba-8dc0-469c-8bf3-c89fa5f6e3f1
+lacheie.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
